@@ -126,8 +126,7 @@ public class Task4 {
                 web.getTitle();
                 web.getScreenshot();
                 web.navigate();
-                System.out.println("----------------------");
-
+                System.out.println("--------------------");
             }
         }
     }
